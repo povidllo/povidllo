@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=povidllo&layout=compact&langs_count=10&hide=javascript,HTML,jupyter%20notebook,css&color=black&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=povidllo)](https://github.com/anuraghazra/github-readme-stats)
